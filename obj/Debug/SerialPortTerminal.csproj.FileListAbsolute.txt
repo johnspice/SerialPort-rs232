@@ -1,0 +1,14 @@
+C:\Users\Hitss\Desktop\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\Hitss\Desktop\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+C:\Users\Hitss\Desktop\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+C:\Users\Hitss\Desktop\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+C:\Users\Hitss\Desktop\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+C:\Users\Hitss\Desktop\SerialPortTerminal\obj\Debug\SerialPortTerminal.csprojAssemblyReference.cache
+C:\Users\Hitss\Desktop\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+C:\Users\Hitss\Desktop\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\Users\Hitss\Desktop\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\Hitss\Desktop\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.GenerateResource.cache
+C:\Users\Hitss\Desktop\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+C:\Users\Hitss\Desktop\SerialPortTerminal\obj\Debug\SerialPort Terminal.application
+C:\Users\Hitss\Desktop\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\Hitss\Desktop\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
